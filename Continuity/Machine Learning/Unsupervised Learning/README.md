@@ -2,7 +2,7 @@
 
 Unsupervised learning **we are not given a "label" (or answer)**, so we approach these problems with little or no idea what our results should look like. 
 
-*We can derive structure from data where we don't necessarily know the effect of the variables:*
+We can derive structure from data where we don't necessarily know the effect of the variables:
 
 - We can **derive this structure by clustering** the data based on relationships among the variables in the data.
 
