@@ -11,6 +11,7 @@ Sites for scripting environments:
 
 * [repl](https://repl.it/repls)
 * [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
+* [Regexr](https://regexr.com/)
 
 Sites for reference material:
 
