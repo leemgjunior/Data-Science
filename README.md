@@ -9,7 +9,7 @@ This is a repository for all python projects.
 
 Sites for scripting environments:
 
-* [repl](https://repl.it/repls)
+* [Repl](https://repl.it/repls)
 * [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
 * [Regexr](https://regexr.com/)
 
