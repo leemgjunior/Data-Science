@@ -18,6 +18,7 @@ Sites for reference material:
 
 Sites for study material:
 
+* [Brilliant](https://brilliant.org/)
 * [DataQuest](https://app.dataquest.io/dashboard)
 * [Treehouse](https://teamtreehouse.com/home)
 * [edX](https://courses.edx.org/dashboard)
