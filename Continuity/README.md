@@ -4,7 +4,7 @@ This is a repository for all Data-Science projects.
  
  Projects in this repo include:
  
- * TBD
+ * **Machine Learning**
 
 Sites for reference material:
 
