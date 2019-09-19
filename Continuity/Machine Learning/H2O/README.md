@@ -1,6 +1,6 @@
 # Continuity Rep
 
-This is a repository for all Data-Science projects.
+This is a repository for all H2o continuity.
  
  Projects in this repo include:
  
