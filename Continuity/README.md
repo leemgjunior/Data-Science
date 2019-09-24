@@ -13,12 +13,11 @@ Sites for reference material:
 
 Public Datasources:
 * [Kaggle](https://www.kaggle.com/) - Online public data platform for machine learning competitions
-* [Data.World](https://data.world/)
 * [Data.Gov](https://www.data.gov/) - A directory of government data 
 * [Reddit Datasets](https://www.reddit.com/r/datasets/) - A subreddit that has hundreds of interesting data sets
 * [Awesome Github Datasets](https://github.com/awesomedata/awesome-public-datasets) - A list of data sets hosted on GitHub
 * [RS.IO](https://rs.io/100-interesting-data-sets-for-statistics/) - A great blog post with hundreds of interesting data sets
-* [NYC Data](https://opendata.cityofnewyork.us/)
+* [NYC Data](https://opendata.cityofnewyork.us/) - Repo for NYC data
 * [Driven Data](https://www.drivendata.org/) - Crowdsourcing public data platform for charitable causes
 * [Quantopian](https://www.quantopian.com/home) - Public data platform for quantitative finance
 * [Numer.Ai](https://numer.ai/rounds) - Public data platform for quantitative hedge fund analysis
