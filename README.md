@@ -1,11 +1,7 @@
 # Data Science
 
 This is a repository for all python projects.
- 
- Projects in this repo include:
- 
- * Continuity
- * Projects
+
 
 Sites for scripting environments:
 
