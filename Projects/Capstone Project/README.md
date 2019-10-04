@@ -6,7 +6,7 @@ Automobile Insurance fraud costs the insurance industry billions of dollars annu
  The Project in this repo includes:
  
  * [Report](https://github.com/leemgjunior/Data-Science/blob/master/Projects/Capstone%20Project/Alpha%20Case%20Report.pdf)
- * [Presentation Powerpoint](https://github.com/leemgjunior/Data-Science/blob/master/Projects/School%20Projects/Capstone%20Project/Alpha%20Case%20Presentation.pptx)
+ * [Presentation Powerpoint](https://github.com/leemgjunior/Data-Science/blob/master/Projects/Capstone%20Project/Alpha%20Case%20Presentation.pptx)
  * [Data Dictionary](https://github.com/leemgjunior/Data-Science/blob/master/Projects/Capstone%20Project/Data%20Dictionary.pdf)
  * [Dataset](https://github.com/leemgjunior/Data-Science/blob/master/Projects/Capstone%20Project/Claims%20Dataset.zip)
  * [Model Output](https://github.com/leemgjunior/Data-Science/blob/master/Projects/Capstone%20Project/Model%20Output.zip)
