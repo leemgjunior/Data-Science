@@ -13,6 +13,7 @@ Sites for reference material:
   
 * [Running Docker MSSQL Server a Mac](https://medium.com/@reverentgeek/sql-server-running-on-a-mac-3efafda48861)
 
+* [Change Jupyter Start Up Folder](https://stackoverflow.com/questions/35254852/how-to-change-the-jupyter-start-up-folder)
 
 Public Datasources:
 * [Kaggle](https://www.kaggle.com/) - Online public data platform for machine learning competitions
