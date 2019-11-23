@@ -25,4 +25,4 @@ This is a repository for all python projects.
 * [Kaggle](https://www.kaggle.com/#)
 * [HackerEarth](https://www.hackerearth.com/challenges/)
 * [HackerRank](https://www.hackerrank.com/dashboard)
-* [AnalyticsVidhya](https://courses.analyticsvidhya.com/courses/take/a-comprehensive-learning-path-to-become-a-data-scientist-in-2019/texts/6074914-how-to-setup-your-machine)
+* [Analytics Vidhya](https://courses.analyticsvidhya.com/courses/take/a-comprehensive-learning-path-to-become-a-data-scientist-in-2019/texts/6074914-how-to-setup-your-machine)
