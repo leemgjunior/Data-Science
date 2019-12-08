@@ -7,9 +7,6 @@ This is a repository for all python projects.
 * [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
 * [Regexr](https://regexr.com/)
 
-#### Reference Material:
-* [Google Keep](https://keep.google.com/)
-
 #### Study Sites:
 * [Brilliant](https://brilliant.org/)
 * [DataQuest](https://app.dataquest.io/dashboard)
@@ -33,3 +30,7 @@ This is a repository for all python projects.
 * [/r/datasets](https://www.reddit.com/r/datasets/) - A subreddit that has hundreds of interesting data sets
 * [Awesome datasets](https://github.com/awesomedata/awesome-public-datasets) - A list of data sets hosted on GitHub
 * [rs.io](https://rs.io/100-interesting-data-sets-for-statistics/) - A great blog post with hundreds of interesting data sets
+
+
+#### Reference Material:
+* [Google Keep](https://keep.google.com/)
