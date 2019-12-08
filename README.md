@@ -18,19 +18,17 @@ This is a repository for all python projects.
 * [Microsoft Downloadable Courseware](https://www.microsoft.com/en-us/learning/companion-moc.aspx)
 * [New Horizons](https://lms.nhcms.net/ClassEnrollment/7697308) & [Skillpipe](https://skillpipe.com/#/bookshelf/books?lang=en-GB&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1YWM4YmYyNC0zNjU5LTRjZDYtYjM0NS0wMDcyZTllODgzYTciLCJkdGJzLXNlc3Npb24taWQiOiJlMjVmOWFhYi02ZGFlLTQ3NzktYTA5ZC01ODM3YTE2NzI3M2QiLCJvdmVycmlkZSI6IkZhbHNlIiwibmJmIjoxNTc0NDUyMzk5LCJleHAiOjE1NzQ0ODQ3OTksImlhdCI6MTU3NDQ1MjM5OSwiaXNzIjoiaHR0cDovL3NraWxscGlwZS5jb20iLCJhdWQiOiJodHRwOi8vc2tpbGxwaXBlLmNvbSJ9.EAduruRFytTAFHgM2bl3wdyQ3hhqsqelN-8OLaeaQBI)
 
-#### Challanges & Competitions:
-* [Kaggle](https://www.kaggle.com/#)
-* [HackerEarth](https://www.hackerearth.com/challenges/)
-* [HackerRank](https://www.hackerrank.com/dashboard)
-* [Analytics Vidhya](https://courses.analyticsvidhya.com/courses/take/a-comprehensive-learning-path-to-become-a-data-scientist-in-2019/texts/6074914-how-to-setup-your-machine)
-
-
 #### Public Data Sources:
 * [Data.gov](https://www.data.gov/) - A directory of government data downloads
 * [/r/datasets](https://www.reddit.com/r/datasets/) - A subreddit that has hundreds of interesting data sets
 * [Awesome datasets](https://github.com/awesomedata/awesome-public-datasets) - A list of data sets hosted on GitHub
 * [rs.io](https://rs.io/100-interesting-data-sets-for-statistics/) - A great blog post with hundreds of interesting data sets
 
+#### Challanges & Competitions:
+* [Kaggle](https://www.kaggle.com/#)
+* [HackerEarth](https://www.hackerearth.com/challenges/)
+* [HackerRank](https://www.hackerrank.com/dashboard)
+* [Analytics Vidhya](https://courses.analyticsvidhya.com/courses/take/a-comprehensive-learning-path-to-become-a-data-scientist-in-2019/texts/6074914-how-to-setup-your-machine)
 
 #### Reference Material:
 * [Google Keep](https://keep.google.com/)
