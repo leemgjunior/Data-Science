@@ -1,6 +1,14 @@
+
+
 # Data Science
 This is a repository for all python projects.
 
+## Trainings in Progress...
+* [Python Pandas — Basics to Beyond](https://hackernoon.com/python-pandas-tutorial-92018da85a33)
+* [How I Built Trump Sentiment Tracker](https://hackernoon.com/how-i-built-trump-sentiment-tracker-355ff87859f9)
+* [Christopher Brooks - Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
+* [Andrew Ng - Machine Learning](https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_content=17-DeepLearning-US&campaignid=904733485&adgroupid=54215108588&device=c&keyword=andrew%20ng&matchtype=p&network=g&devicemodel=&adpostion=1t1&creativeid=269507680285&hide_mobile_promo&gclid=CjwKCAiAob3vBRAUEiwAIbs5TnXxr1RA85SMoLPPGblVgf81V6_jG8Dw_Mm3FYxEOO1jQMGKb4kAQRoCfI8QAvD_BwE)
+* [IBM - Python Data Science](https://www.edx.org/professional-certificate/python-data-science#program-enrolling-now-section-btn)
 
 #### Scripting Environments:
 * [Repl](https://repl.it/repls)
@@ -23,6 +31,9 @@ This is a repository for all python projects.
 * [/r/datasets](https://www.reddit.com/r/datasets/) - A subreddit that has hundreds of interesting data sets
 * [Awesome datasets](https://github.com/awesomedata/awesome-public-datasets) - A list of data sets hosted on GitHub
 * [rs.io](https://rs.io/100-interesting-data-sets-for-statistics/) - A great blog post with hundreds of interesting data sets
+
+#### Forums
+* [HackerNoon](https://hackernoon.com/)
 
 #### Challanges & Competitions:
 * [Kaggle](https://www.kaggle.com/#)
