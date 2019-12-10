@@ -6,14 +6,15 @@ This is a repository for all Data-Science projects.
  
  * Machine Learning
 
-Sites for reference material:
+### Sites for reference material:
 
 * [Use Python in SQL Server 2017 for advanced data analytics](https://www.sqlshack.com/how-to-use-python-in-sql-server-2017-to-obtain-advanced-data-analytics/)
   * [Handle inputs and outputs using Python in SQL Server 2017](https://docs.microsoft.com/en-us/sql/advanced-analytics/tutorials/quickstart-python-inputs-and-outputs?view=sql-server-2017)  
 * [Running Docker MSSQL Server a Mac](https://medium.com/@reverentgeek/sql-server-running-on-a-mac-3efafda48861)
 * [Change Jupyter Start Up Folder](https://stackoverflow.com/questions/35254852/how-to-change-the-jupyter-start-up-folder)
+* [Summarising, Aggregating, and Grouping data in Python Pandas](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/)
 
-Public Datasources:
+### Public Datasources:
 * [Kaggle](https://www.kaggle.com/) - Online public data platform for machine learning competitions
 * [Data.Gov](https://www.data.gov/) - A directory of government data 
 * [Reddit Datasets](https://www.reddit.com/r/datasets/) - A subreddit that has hundreds of interesting data sets
