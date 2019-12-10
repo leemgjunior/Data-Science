@@ -6,6 +6,7 @@ This is a repository for all data science projects.
 
 ## Trainings in Progress...
 
+  * **[10 Free Top Notch Machine Learning Courses](https://www.kdnuggets.com/2019/12/10-free-top-notch-courses-machine-learning.html)**
   * **[Python Pandas — Basics to Beyond](https://hackernoon.com/python-pandas-tutorial-92018da85a33)**
   * **[How I Built Trump Sentiment Tracker](https://hackernoon.com/how-i-built-trump-sentiment-tracker-355ff87859f9)**
   * **[How I Analyzed One Million Voter Records in Manhattan](https://hackernoon.com/analyzing-one-million-voter-records-in-manhattan-1r2w36u5)**
@@ -33,14 +34,23 @@ This is a repository for all data science projects.
 * [New Horizons](https://lms.nhcms.net/ClassEnrollment/7697308) & [Skillpipe](https://skillpipe.com/#/bookshelf/books?lang=en-GB&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1YWM4YmYyNC0zNjU5LTRjZDYtYjM0NS0wMDcyZTllODgzYTciLCJkdGJzLXNlc3Npb24taWQiOiJlMjVmOWFhYi02ZGFlLTQ3NzktYTA5ZC01ODM3YTE2NzI3M2QiLCJvdmVycmlkZSI6IkZhbHNlIiwibmJmIjoxNTc0NDUyMzk5LCJleHAiOjE1NzQ0ODQ3OTksImlhdCI6MTU3NDQ1MjM5OSwiaXNzIjoiaHR0cDovL3NraWxscGlwZS5jb20iLCJhdWQiOiJodHRwOi8vc2tpbGxwaXBlLmNvbSJ9.EAduruRFytTAFHgM2bl3wdyQ3hhqsqelN-8OLaeaQBI)
 * [SalesForce - Trailblazer](https://trailblazer.me/TrailblazerLogin?startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAW7yDHU5ME8wMUkwMDAwMDAwMDA2AAAA3s4unvmC_k2eSi1YflpaJ9_e_sWIWEOFIKZCG6EQbNDhqz_qg88st_7gy55PCPEwX6DMreuRNhEN2y779yXQhOolYO8ENQcyGuOkU6Aelc2Xvojjgic779Sm7UE2oNNrcWD0xObA0uZmLNcpERrIrdS8jRUzDaZ24FHu_2sEKishFroueQv1x_iafXeNjaazIBqRBKPgzD4s15qVPDdtjjlm8AOHBB0o85raeWvqHr2-gyRfVzWd4K7qZWtrF4yW_XxVkx9EQdPP0CIWRz8fjcLO9bvdbRVzjF6NnrPuv8h22bewGJOcigWP4jurrQ4ZUEwBv3Z61hyLhOfKB0G6wkh_yY7yXx3EiScJxl8iFdPkScBqNEOGJ3r1Uh61F_26eyRE97kfPrQFjmn0AapJFI-9BhuBylRU4YwLbre7Vasn8cwQRmhKBdxpVffeZh_I0H93vOQ-4wXX4BOUFmKvSdRAYBCQIzsuxpUhTDtrJ7vwprJDTe2hw3uwh-RwLTtV6SdTfiJw_an9UxyVRdkuDQ027xu5nJ_pKMElXQYqpVLfuxn3lNmLyUYQRxt2LSkBK8tg6I7no7nPZbSQo5JXI28BXo0OmWttNxN1ulpxgVGlAIO618v0SLQipanzS8libxapO3UvZ9ya21-RnppNfzCgHrRQknyAt8K0JoJq30ydQS2doCqGtgV3No3sTfjhTflANRVx5NPwr91Z0NV3oeVL7MY8KG__Iko17MkyDzURkuXmwcWTn7SdIbibIWIAFBHvliLtOlQH3TF5SCoW3EU%253D%26display%3Dpage&display=page&sdtd=1&locale=en_US)
 
-#### Public Data Sources:
-* [Data.gov](https://www.data.gov/) - A directory of government data downloads
-* [/r/datasets](https://www.reddit.com/r/datasets/) - A subreddit that has hundreds of interesting data sets
-* [Awesome datasets](https://github.com/awesomedata/awesome-public-datasets) - A list of data sets hosted on GitHub
-* [rs.io](https://rs.io/100-interesting-data-sets-for-statistics/) - A great blog post with hundreds of interesting data sets
+#### Public Datasources:
+* [Kaggle](https://www.kaggle.com/) - Online public data platform for machine learning competitions
+* [Data.Gov](https://www.data.gov/) - A directory of government data 
+* [Reddit Datasets](https://www.reddit.com/r/datasets/) - A subreddit that has hundreds of interesting data sets
+* [Awesome Github Datasets](https://github.com/awesomedata/awesome-public-datasets) - A list of data sets hosted on GitHub
+* [RS.IO](https://rs.io/100-interesting-data-sets-for-statistics/) - A great blog post with hundreds of interesting data sets
+* [NYC Data](https://opendata.cityofnewyork.us/) - Repo for NYC data
+* [Driven Data](https://www.drivendata.org/) - Crowdsourcing public data platform for charitable causes
+* [Quantopian](https://www.quantopian.com/home) - Public data platform for quantitative finance
+* [Numer.Ai](https://numer.ai/rounds) - Public data platform for quantitative hedge fund analysis
+* [Seedbank](https://research.google.com/seedbank/) - Seedbank is a ML registry and search engine for Colab
+* [Fast.Ai](https://www.fast.ai/) - Deep learning repo for education
+* [Twitter Developer](https://developer.twitter.com/en/apps) - Twitter Developer Platform provides the tools to build products with Twitter data
 
 #### Forums
 * [HackerNoon](https://hackernoon.com/)
+* [KDNuggets](https://www.kdnuggets.com/)
 
 #### Challanges & Competitions:
 * [Kaggle](https://www.kaggle.com/#)
