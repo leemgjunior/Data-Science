@@ -10,6 +10,8 @@ This is a repository for all python projects.
   * [Christopher Brooks - Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
   * [Andrew Ng - Machine Learning](https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_content=17-DeepLearning-US&campaignid=904733485&adgroupid=54215108588&device=c&keyword=andrew%20ng&matchtype=p&network=g&devicemodel=&adpostion=1t1&creativeid=269507680285&hide_mobile_promo&gclid=CjwKCAiAob3vBRAUEiwAIbs5TnXxr1RA85SMoLPPGblVgf81V6_jG8Dw_Mm3FYxEOO1jQMGKb4kAQRoCfI8QAvD_BwE)
   * [IBM - Python Data Science](https://www.edx.org/professional-certificate/python-data-science#program-enrolling-now-section-btn)
+  * [Microsoft - Data Science Essentials](https://www.edx.org/course/data-science-essentials#!)
+  * [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-I0X6ultXjjDeb8FzG58MRw&siteID=vedj0cWlu2Y-I0X6ultXjjDeb8FzG58MRw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y#syllabus)
   
 ---
 #### Scripting Environments:
