@@ -9,10 +9,8 @@ This is a repository for all Data-Science projects.
 Sites for reference material:
 
 * [Use Python in SQL Server 2017 for advanced data analytics](https://www.sqlshack.com/how-to-use-python-in-sql-server-2017-to-obtain-advanced-data-analytics/)
-  * [Handle inputs and outputs using Python in SQL Server 2017](https://docs.microsoft.com/en-us/sql/advanced-analytics/tutorials/quickstart-python-inputs-and-outputs?view=sql-server-2017)<br>
-  
+  * [Handle inputs and outputs using Python in SQL Server 2017](https://docs.microsoft.com/en-us/sql/advanced-analytics/tutorials/quickstart-python-inputs-and-outputs?view=sql-server-2017)  
 * [Running Docker MSSQL Server a Mac](https://medium.com/@reverentgeek/sql-server-running-on-a-mac-3efafda48861)
-
 * [Change Jupyter Start Up Folder](https://stackoverflow.com/questions/35254852/how-to-change-the-jupyter-start-up-folder)
 
 Public Datasources:
