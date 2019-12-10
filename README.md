@@ -1,7 +1,7 @@
 
 
 # Data Science
-This is a repository for all python projects.
+This is a repository for all data science projects.
 
 
 ## Trainings in Progress...
