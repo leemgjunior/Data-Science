@@ -15,6 +15,7 @@ This is a repository for all data science projects.
   * **[IBM - Python Data Science](https://www.edx.org/professional-certificate/python-data-science#program-enrolling-now-section-btn)**
   * **[Microsoft - Data Science Essentials](https://www.edx.org/course/data-science-essentials#!)**
   * **[John Hopkins - Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-I0X6ultXjjDeb8FzG58MRw&siteID=vedj0cWlu2Y-I0X6ultXjjDeb8FzG58MRw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y#syllabus)**
+  * **[DeepLearning.ai - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow#about)**
 
 ---
 #### Scripting Environments:
