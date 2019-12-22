@@ -59,6 +59,7 @@ This is a repository for all data science projects.
 * [HackerEarth](https://www.hackerearth.com/challenges/)
 * [HackerRank](https://www.hackerrank.com/dashboard)
 * [Analytics Vidhya](https://courses.analyticsvidhya.com/courses/take/a-comprehensive-learning-path-to-become-a-data-scientist-in-2019/texts/6074914-how-to-setup-your-machine)
+* [Omdena](https://omdena.com/our-projects/)
 
 #### Reference Material:
 * [Google Keep](https://keep.google.com/)
