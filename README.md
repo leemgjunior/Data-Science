@@ -17,11 +17,15 @@ This is a repository for all data science projects.
   * **[Christopher Brooks - Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)**
   * **[DeepLearning.ai - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow#about)**
 * **[Jack Farmer - Machine Learning for Trading Specialization](https://www.coursera.org/specializations/machine-learning-trading?utm_medium=email&utm_source=marketing&utm_campaign=nGu0ICLEEeqnEClWfXMgdQ)**
+
 ---
-#### Scripting Environments:
+---
+
+#### App Development:
 * [Repl](https://repl.it/repls)
 * [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
 * [Regexr](https://regexr.com/)
+* [DB Designer](https://app.dbdesigner.net/dashboard)
 
 #### Training Sites:
 * [Brilliant](https://brilliant.org/)
