@@ -11,7 +11,9 @@ This is a repository for all data science projects.
   * **[How I Built Trump Sentiment Tracker](https://hackernoon.com/how-i-built-trump-sentiment-tracker-355ff87859f9)**
   * **[How I Analyzed One Million Voter Records in Manhattan](https://hackernoon.com/analyzing-one-million-voter-records-in-manhattan-1r2w36u5)**
   * **[Andrew Ng - Machine Learning](https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_content=17-DeepLearning-US&campaignid=904733485&adgroupid=54215108588&device=c&keyword=andrew%20ng&matchtype=p&network=g&devicemodel=&adpostion=1t1&creativeid=269507680285&hide_mobile_promo&gclid=CjwKCAiAob3vBRAUEiwAIbs5TnXxr1RA85SMoLPPGblVgf81V6_jG8Dw_Mm3FYxEOO1jQMGKb4kAQRoCfI8QAvD_BwE)**
-  * **[IBM - Python Data Science](https://www.edx.org/professional-certificate/python-data-science#program-enrolling-now-section-btn)**
+     * **[IBM - Python Data Science](https://www.edx.org/professional-certificate/python-data-science#program-enrolling-now-section-btn)**
+     * **[John Hopkins - Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science?siteID=OyHlmBp2G0c-0328ZKV34mF3.yMgOBpdWA&utm_content=2&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c#courses)**
+     * **[U of Michigan - Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-EbVWycHhavIs5l1Xq83CaA&siteID=OyHlmBp2G0c-EbVWycHhavIs5l1Xq83CaA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c)**
   * **[Microsoft - Data Science Essentials](https://www.edx.org/course/data-science-essentials#!)**
   * **[John Hopkins - Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-I0X6ultXjjDeb8FzG58MRw&siteID=vedj0cWlu2Y-I0X6ultXjjDeb8FzG58MRw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y#syllabus)**
   * **[Christopher Brooks - Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)**
