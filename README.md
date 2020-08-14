@@ -6,7 +6,7 @@ This is a repository for all data science projects.
 
 ## Trainings in Progress...
 
-  * **[AWS Certifications I Should Take](https://acloudguru.com/blog/engineering/which-aws-certification-should-i-take) 
+  * **[AWS Certifications I Should Take](https://acloudguru.com/blog/engineering/which-aws-certification-should-i-take)** 
   * **[10 Free Top Notch Machine Learning Courses](https://www.kdnuggets.com/2019/12/10-free-top-notch-courses-machine-learning.html)**
   * **[Python Pandas — Basics to Beyond](https://hackernoon.com/python-pandas-tutorial-92018da85a33)**
   * **[How I Built Trump Sentiment Tracker](https://hackernoon.com/how-i-built-trump-sentiment-tracker-355ff87859f9)**
