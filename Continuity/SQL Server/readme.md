@@ -6,3 +6,4 @@
   * [Handle inputs and outputs using Python in SQL Server 2017](https://docs.microsoft.com/en-us/sql/advanced-analytics/tutorials/quickstart-python-inputs-and-outputs?view=sql-server-2017)  
 * [Running Docker MSSQL Server a Mac](https://medium.com/@reverentgeek/sql-server-running-on-a-mac-3efafda48861)
 * [How to Handle Calculations Related to fiscal year and quarter](https://www.sqlservercentral.com/articles/how-to-handle-calculations-related-to-fiscal-year-and-quarter)
+*  [How to Identify a Scheduled SSRS report in SQL Agent Jobs](https://www.mssqltips.com/sqlservertip/1846/how-to-easily-identify-a-scheduled-sql-server-reporting-services-report/)
