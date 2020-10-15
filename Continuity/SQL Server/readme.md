@@ -20,7 +20,6 @@ SELECT
    , LastRunTime
    , date_created
    , date_modified
-   , EVENTDATA
 FROM 
    ReportServer.dbo.ReportSchedule a 
    JOIN msdb.dbo.sysjobs b ON convert(nvarchar(36),a.ScheduleID) = b.name
