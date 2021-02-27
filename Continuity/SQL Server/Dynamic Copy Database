@@ -1,0 +1,38 @@
+* Dynamically copy database tables to new server
+
+
+drop table if exists #tbl
+SELECT *
+into #tbl
+ FROM openquery(SRVSQLNHC,'select * 
+  FROM [66.81.18.12,55221].[NewHanoverCounty_PropMgt].[sys].sysobjects
+  where xtype in (''u'') ')
+   
+
+  declare @t nvarchar(500)
+  declare @sql nvarchar(max)
+  declare t_curs CURSOR FOR 
+  SELECT name from #tbl
+  
+
+  open t_curs
+  fetch next from t_curs into @t
+
+    while @@FETCH_STATUS = 0 
+		begin
+			If not exists (
+	   				  select 'x' from [Archive_MicroMain2].[sys].sysobjects where name = @t 
+			)
+			begin
+				set @sql  = 'SELECT * INTO Archive_Micromain2.dbo.' +@t  + ' from  OPENQUERY (SRVSQLNHC, ''SELECT * FROM  [66.81.18.12,55221].[NewHanoverCounty_PropMgt].dbo.'+@t+''' )'
+				exec(@sql)
+
+			end
+			else 
+			begin
+				PRINT 'Table ' + @t + ' already exists'
+			end
+				fetch next from t_curs into @t
+		end	
+	close t_curs
+	DEALLOCATE t_curs
