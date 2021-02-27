@@ -1,0 +1,34 @@
+CREATE PROCEDURE [dbo].[usp_Copy_View_To_Database]
+    @ViewName SYSNAME, -- The name of the view to copy over
+    @DatabaseName SYSNAME, -- The name of the database to copy the view to    
+    @overwrite bit = 1 -- Whether to overwrite any existing view
+AS
+    IF DB_ID(@DatabaseName) IS NULL -- Validate the database name exists
+    BEGIN
+       RAISERROR('Invalid Destination Database Name passed',16,1)
+       RETURN
+    END    
+    SET NOCOUNT ON
+    IF @overwrite = 1 -- If set to overwrite, try to drop the remote view
+    BEGIN    
+        DECLARE @DropViewStatement NVARCHAR(MAX) =
+            'EXEC ' + QUOTENAME(@DatabaseName) + '.sys.sp_executesql N''DROP VIEW IF EXISTS ' + QUOTENAME(@ViewName) + ';'';'
+        EXEC (@DropViewStatement);
+    END
+    -- Extract the saved definition of the view
+    DECLARE @ViewDefinition NVARCHAR(MAX);
+    SELECT @ViewDefinition = definition FROM sys.sql_modules WHERE [object_id] = OBJECT_ID(@ViewName);
+    -- Check for a mismatch between the internal view name and the expected name (TODO: Resolve this automatically?)
+    IF @ViewDefinition NOT LIKE ('%' + @ViewName + '%')
+    BEGIN
+       DECLARE @InternalName NVARCHAR(MAX) = SUBSTRING(@ViewDefinition, 3, CHARINDEX(char(10), @ViewDefinition, 3)-4);
+       PRINT ('Warning: The view named '+@ViewName+' has an internal definition name that is different ('+@InternalName+'). This may have been caused by renaming the view after it was created. You will have to drop and recreate it with the correct name.')
+    END
+    -- Substitute any hard-coded references to the current database with the destination database
+    SET @ViewDefinition = REPLACE(@ViewDefinition, db_name(), @DatabaseName); 
+    -- Generate the dynamic SQL that will create the view on the remote database
+    DECLARE @CreateViewStatement NVARCHAR(MAX) =
+        'EXEC ' + QUOTENAME(@DatabaseName) + '.sys.sp_executesql N''' + REPLACE(@ViewDefinition,'''','''''') + ''';'
+    --PRINT '@CreateViewStatement: ' + @CreateViewStatement -- Can be used for debugging
+    -- Execute the create statement
+    EXEC (@CreateViewStatement);
